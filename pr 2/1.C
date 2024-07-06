@@ -20,22 +20,7 @@ main()
 				?printf("GRADE E !!")
 				:printf("SORRY , YOU ARE FAIL ..");
 
-		switch(GRADE)
-	{	case 'A':
-		case 'a':printf("Excellent Work");
-		break;
-		case 'B':
-		case 'b':printf("Well Done");
-		break;
-		case 'C':
-		case 'c':printf("You passed");
-		break;
-		case 'D':
-		case 'd':printf("You passed");
-		break;
-		case 'F':
-		case 'f':printf("SORRY, YOU FAIL");
-		}
+
 
 
     getch();

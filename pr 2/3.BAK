@@ -44,6 +44,8 @@ main()
 		case 'd':printf("You passed\n");
 			 printf("GRADE D !!");
 		break;
+		case 'E':
+		case 'e':
 		case 'F':
 		case 'f':printf("SORRY, YOU FAIL\n");
 			printf("GRADE F !!\n");
