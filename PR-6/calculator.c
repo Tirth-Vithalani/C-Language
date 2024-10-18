@@ -25,6 +25,7 @@ int main() {
     float a, b, result;
 
     do {
+        printf("----------------------\n")
         printf("Press 1 for + : \n");
         printf("Press 2 for - : \n");
         printf("Press 3 for * : \n");
